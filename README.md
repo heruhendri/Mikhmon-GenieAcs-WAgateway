@@ -27,7 +27,7 @@
 
 > 
 
-![Screenshot](https://github.com/heruhendri/Mikhmon-PPPoE-Ros.6/blob/master/ss.gif)
+![Screenshot](https://github.com/heruhendri/Mikhmon-GenieAcs-WAgateway/blob/master/ss.gif)
 
 ## 😊 Instalasi dengan Simple bisa menggunakan script [auto instaler mikhmon](https://github.com/heruhendri/Installer-Mikhmon-VPS)
 
